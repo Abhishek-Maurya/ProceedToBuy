@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: proceedtobuyrepos
-        image: mfpeacr.azurecr.io/proceedtobuyrepos:latest
+        image: mfpecr.azurecr.io/proceedtobuyrepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
